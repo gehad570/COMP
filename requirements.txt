@@ -1,8 +1,7 @@
 streamlit
-torch
-torchvision
-opencv-python-headless==4.9.0.80
+tensorflow==2.15.0
 numpy
 pillow
-matplotlib
-tqdm
+pandas
+zipfile36
+
