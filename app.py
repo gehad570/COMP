@@ -114,7 +114,7 @@ model.eval()
 
 # -----------------------------
 
-st.title("🌱 Green Area Detection (PyTorch UNet)")
+st.title("🌱 Green Area Detection")
 uploaded = st.file_uploader("Upload aerial image", type=["jpg","jpeg","png"])
 
 if uploaded:
